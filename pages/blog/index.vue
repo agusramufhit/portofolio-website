@@ -37,7 +37,7 @@ export default {
         let stories;
 
         await app.$storyapi.get('cdn/stories', {
-            'starts_with': 'ahmadsaugi-com'
+            'starts_with': 'ra_agusr'
         }).then((res) => {
             stories = res.data.stories
             return res.data

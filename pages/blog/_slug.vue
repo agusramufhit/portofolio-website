@@ -14,7 +14,7 @@ export default {
     async asyncData({app, isDev, route, store, env, params, query, req, res, redirect, error}) {
         let story;
 
-        await app.$storyapi.get(`cdn/stories/ahmadsaugi-com/${params.slug}`)
+        await app.$storyapi.get(`cdn/stories/ra_agusr/${params.slug}`)
         .then((res) => {
             story = res.data.story
         }).catch((res) => {

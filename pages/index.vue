@@ -4,7 +4,7 @@
       <div class="image">
       <img src="@/assets/images/pp.jpg" alt="My Picture" class=" rounded-full mx-auto w-64">
       </div>
-      <h1 class="title my-8 leading-tight">
+      <h1 class="my-8 text-6xl leading-tight">
         Agus Ramufhit
       </h1>
       <p class='text-2xl'><span class='text-blue-600'>Front-End</span> Web Developer</p>

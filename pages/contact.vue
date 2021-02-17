@@ -9,29 +9,29 @@
                     <div class="image">
                         <img src="@/assets/socmed/telegram.svg" alt="Telegram" class='w-8 mr-3'>
                     </div>
-                    <a class='text-blue-600 hover:text-blue-400' href="https://t.me/amsaugi/" target="_blank">https://t.me/amsaugi/</a>
+                    <a class='text-blue-600 hover:text-blue-400' href="" target="_blank"></a>
                 </div>
                 <div class="contact flex flex-row items-center mb-5">
                     <div class="image">
                         <img src="@/assets/socmed/facebook-circle.svg" alt="Facebook" class='w-8 mr-3'>
                     </div>
-                    <a class='text-blue-600 hover:text-blue-400' href="https://www.facebook.com/ahmadsaugi.gis/" target="_blank">https://www.facebook.com/ahmadsaugi.gis/</a>
+                    <a class='text-blue-600 hover:text-blue-400' href="" target="_blank"></a>
                 </div>
                 <div class="contact flex flex-row items-center mb-5">
                     <div class="image">
                         <img src="@/assets/socmed/github-circle.svg" alt="Github" class='w-8 mr-3'>
                     </div>
-                    <a class='text-blue-600 hover:text-blue-400' href="https://github.com/zuramai/" target="_blank">https://github.com/zuramai/</a>
+                    <a class='text-blue-600 hover:text-blue-400' href="" target="_blank"></a>
                 </div>
                 <div class="contact flex flex-row items-center mb-5">
                     <div class="image">
                         <img src="@/assets/socmed/instagram.svg" alt="Instagram" class='w-8 mr-3'>
                     </div>
-                    <a class='text-blue-600 hover:text-blue-400' href="https://www.instagram.com/asawgi/" target="_blank">https://www.instagram.com/asawgi</a>
+                    <a class='text-blue-600 hover:text-blue-400' href="" target="_blank"></a>
                 </div>
                 <div class="contact flex flex-row items-center mb-5">
                     <img src="@/assets/socmed/linkedin-circle.svg" alt="LinkedIn" class='w-8 mr-3'>
-                    <a class='text-blue-600 hover:text-blue-400' href="https://www.linkedin.com/in/ahmad-saugi/" target="_blank">https://www.linkedin.com/in/ahmad-saugi/</a>
+                    <a class='text-blue-600 hover:text-blue-400' href="" target="_blank"></a>
                 </div>
             </div>
         </div>
