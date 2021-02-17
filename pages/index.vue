@@ -2,7 +2,7 @@
   <div class="container">
     <div class='flex flex-col mx-auto mt-64 text-center'>
       <div class="image">
-      <img src="@/assets/images/pp.jpg" alt="My Picture" class=" rounded-full mx-auto w-64">
+      <img src="@/assets/images/pp.jpg" alt="My Picture" class=" rounded-full mt-10 mx-auto w-64">
       </div>
       <h1 class="title my-8 leading-tight">
         Agus Ramufhit
