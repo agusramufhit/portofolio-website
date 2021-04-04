@@ -1,2 +1,2 @@
-# portofolio-website
+# myportofolio
 Developer's Portfolio ✨
