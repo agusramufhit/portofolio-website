@@ -7,7 +7,7 @@
       <h1 class="my-8 text-6xl leading-tight">
         Agus Ramufhit
       </h1>
-      <p class='text-2xl'><span class='text-blue-600'>Front-End</span> Web Developer</p>
+      <p class='text-2xl'><span class='text-blue-600'>Full-stack</span> Web Developer</p>
       <div class="links d-flex flex-row mt-5">
         <a class='socmed inline-block mr-4 duration-200 ease-in-out' href="https://www.facebook.com/nowaufa">
           <img src="@/assets/socmed/facebook-circle.svg" alt="Facebook" class='w-8' target="_blank">
